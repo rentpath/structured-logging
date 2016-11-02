@@ -1,4 +1,4 @@
-(defproject com.rentpath/structured-logging "0.1.1-SNAPSHOT"
+(defproject com.rentpath/structured-logging "0.1.1"
   :description "Fork of puppetlabs/structured-logging, write data structures to your logs from clojure."
   :url "https://github.com/rentpath/structured-logging"
   :license {:name "Apache License, Version 2.0"
